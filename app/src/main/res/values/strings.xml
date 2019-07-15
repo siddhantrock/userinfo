@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UserInfo</string>
+    <string name="name">Enter name</string>
+    <string name="gender">Enter gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="degree">Choice degree</string>
+    <string name="ug">U.G</string>
+    <string name="pg">P.G</string>
+    <string name="course">Choice course</string>
+    <string name="address">Enter address</string>
+    <string name="singup">Signup</string>
+</resources>
